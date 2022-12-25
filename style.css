@@ -9,7 +9,7 @@ form{
     flex-direction: column;
     justify-content: center;
     font-size: 25px;
-    width : 400px;
+    width : 420px;
     background-color: aqua;
     padding: 15px;
 }
@@ -37,7 +37,7 @@ span{
 .solution{
 
     font-size: 25px;
-    width : 400px;
+    width : 420px;
     background-color: aqua;
     padding: 15px;
   
